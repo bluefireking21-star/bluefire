@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "minecraft:iron_ingot" },
+    { "item": "minecraft:iron_ingot" },
+    { "item": "minecraft:redstone" },
+    { "item": "gofast:ring" }
+  ],
+  "result": { "id": "gofast:dash_pad", "count": 2 }
+}

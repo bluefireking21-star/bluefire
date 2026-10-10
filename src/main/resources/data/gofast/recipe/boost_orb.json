@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "minecraft:ender_pearl" },
+    { "item": "minecraft:gold_ingot" }
+  ],
+  "result": { "id": "gofast:boost_orb", "count": 1 }
+}
